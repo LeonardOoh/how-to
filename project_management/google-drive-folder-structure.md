@@ -22,14 +22,13 @@ There are essentially three “project categories” we can use in naming: “hd
 
 ### Sub-folders
 
-Within each project folder, there ought to be at least four folders.
+Within each project folder, there ought to be at least five folders.
 
-- *Planning.* All the early-stage discovery & planning materials.
-- *Copywriting.* Email drafts, website copy, etc., separated into subfolders accordingly. And within each sub-category _(ex: email drafts)_ there should be `draft` and `approved` folders. Once copy has been approved, move it to the `approved` folder.
-- *Design.* Mockups, design drafts, etc. _Not code._
+- *Planning.* All the early-stage discovery & planning materials. Contains the Dig Ops Brief, the Dig Ops Plan, and the Dig Ops Schedule.
+- *Execution.* This folder contains the copy and creative deliverables that are drafted and approved.  Email drafts, website copy, etc., separated into subfolders accordingly. Also includes Mockups, design drafts, etc. _Not code._ Within each sub-category _(ex: email drafts)_ there should be `draft` and `approved` folders. Once copy has been approved, move it to the `approved` folder.
+- *Reports.* This folder contains weekly, monthly, quarterly, and annual reports for clients. Folders are organized along these calendar periods. Folders contain the generated report, as well as the Dig Ops Tracker.
 - *From Client.* This is a repository of all the materials the client has sent us. This will tend to have a number of sub-folders.
 - *Legal.* Contracts, project proposals, invoices, etc.
-- *Shareable.* Documents, graphics, etc., that have been approved for public consumption.
 
 [hdexpress]: http://www.hines.digital/express
 [webdesign]: http://www.hines.digital/contact
